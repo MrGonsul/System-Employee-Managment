@@ -4,7 +4,7 @@ The Employee Management System is a simple console-based application designed to
 
 ---
 
-![Screenshot](C:\Users\Administrator\Downloads\x.png)
+![Screenshot](screenshot.png)
 
 
 ## Features
