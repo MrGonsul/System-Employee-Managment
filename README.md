@@ -7,10 +7,8 @@ The Employee Management System is a simple console-based application designed to
 ![Screenshot](screenshot.png)
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+### Features
+- Employee management system using Java.
+- Add, update, delete, and search employee records.
+- Save and load employee data from a file.
 #
